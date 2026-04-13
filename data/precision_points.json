@@ -1,0 +1,21 @@
+{
+  "running_example": {
+    "description": "Six points on elliptical arc (the tutorial series running example)",
+    "n_pts": 6,
+    "theta_deg": [0, 60, 120, 180, 240, 300],
+    "points": [
+      [1.80, 0.60],
+      [1.50, 1.05],
+      [0.90, 1.15],
+      [0.45, 0.80],
+      [0.55, 0.30],
+      [1.20, 0.15]
+    ],
+    "fixed_params": {
+      "r1": 1.0,
+      "r4": 1.0,
+      "p_coupler": 0.5,
+      "h_coupler": 0.3
+    }
+  }
+}

@@ -1,0 +1,6 @@
+numpy>=2.0,<3.0
+scipy>=1.14,<2.0
+matplotlib>=3.9,<4.0
+sympy>=1.13,<2.0
+jupyter>=1.0
+dynamics-of-mechanical-systems @ git+https://github.com/JonathanCamargo/dynamics_of_mechanical_systems.git
